@@ -5,7 +5,7 @@ module.exports = {
   devtool: 'cheap-module-eval-source-map',
   entry: [
     
-    './index.js'
+    './main.js'
   ],
   output: {
     //path: path.join(__dirname, 'static'),
